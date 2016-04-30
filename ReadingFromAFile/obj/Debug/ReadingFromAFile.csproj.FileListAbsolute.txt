@@ -1,0 +1,6 @@
+c:\users\jon\documents\visual studio 2015\Projects\ReadingFromAFile\ReadingFromAFile\bin\Debug\ReadingFromAFile.exe.config
+c:\users\jon\documents\visual studio 2015\Projects\ReadingFromAFile\ReadingFromAFile\bin\Debug\ReadingFromAFile.exe
+c:\users\jon\documents\visual studio 2015\Projects\ReadingFromAFile\ReadingFromAFile\bin\Debug\ReadingFromAFile.pdb
+c:\users\jon\documents\visual studio 2015\Projects\ReadingFromAFile\ReadingFromAFile\obj\Debug\ReadingFromAFile.exe
+c:\users\jon\documents\visual studio 2015\Projects\ReadingFromAFile\ReadingFromAFile\obj\Debug\ReadingFromAFile.pdb
+c:\users\jon\documents\visual studio 2015\Projects\ReadingFromAFile\ReadingFromAFile\obj\Debug\ReadingFromAFile.csprojResolveAssemblyReference.cache
